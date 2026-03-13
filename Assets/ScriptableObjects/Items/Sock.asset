@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdc8a978a8a997343a790fe55259348a, type: 3}
+  m_Name: Sock
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Sock
+  colorSprite: {fileID: 21300000, guid: 53880f0686a57b14bbf2aba9ba73f69d, type: 3}
+  thumbnailSprite: {fileID: 21300000, guid: 53880f0686a57b14bbf2aba9ba73f69d, type: 3}
+  description: 100% ethically sourced wool from Nepal
+  brandName: Nepal
+  dealImage: {fileID: 21300000, guid: 365ab90a3d268c643a83e82f3fba5dcb, type: 3}
+  accentColor: {r: 1, g: 1, b: 1, a: 1}
