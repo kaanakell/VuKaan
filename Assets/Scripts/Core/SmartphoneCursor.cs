@@ -198,6 +198,9 @@ public class SmartphoneCursor : MonoBehaviour
     {
         _adOpen = false;
         SetAdMode(false);
+
+        if(_gameActive)
+            Cursor.visible = false;
     }
 
     private void HandleGameReset()
